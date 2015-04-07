@@ -2,7 +2,7 @@
  * Created by Jochem on 7-4-15.
  */
 var gulp = require('gulp');
-var insert = reguire('gulp-insert');
+var insert = require('gulp-insert');
 
 
 gulp.task('TASKNAME', function() {
