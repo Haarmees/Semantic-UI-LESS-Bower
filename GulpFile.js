@@ -7,7 +7,7 @@ var gutil = require('gulp-util');
 
 gulp.task('init', function() {
     // place code for your default task here
-    var p = require('./../../package.json')
+    var p = require('./../../bower.json')
     var inject = '@import ' + '"../../' + p.config.semantic + 'semantic.config"; @import "theme.less";';
     console.log(inject);
     return string_src("theme.config", inject)
