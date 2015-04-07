@@ -11,6 +11,6 @@ gulp.task('TASKNAME', function() {
 });
 gulp.task('default', function() {
     // place code for your default task here
-    var p = require('./bower.json')
+    var p = require('./../../package.json')
     console.log(p);
 });
