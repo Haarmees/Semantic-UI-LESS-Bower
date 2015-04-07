@@ -19,6 +19,6 @@
   "dependencies": {
     "jquery": "x.*",
       "gulp": "3.*",
-      "main-bower-files": "2.*"
+      "gulp-insert": "*"
   }
 }

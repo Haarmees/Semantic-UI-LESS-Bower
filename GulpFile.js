@@ -2,7 +2,7 @@
  * Created by Jochem on 7-4-15.
  */
 var gulp = require('gulp');
-var mainBowerFiles = require('main-bower-files');
+var insert = reguire('gulp-insert');
 
 
 gulp.task('TASKNAME', function() {
