@@ -13,7 +13,12 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+  "scripts":{
+      "install": "gulp default"
+  },
   "dependencies": {
-    "jquery": "x.*"
+    "jquery": "x.*",
+      "gulp": "3.*",
+      "main-bower-files": "2.*"
   }
 }
