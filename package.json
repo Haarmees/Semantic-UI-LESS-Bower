@@ -14,11 +14,11 @@
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
   "scripts":{
-      "install": "gulp default"
+      "install": "gulp init"
   },
   "dependencies": {
     "jquery": "x.*",
       "gulp": "3.*",
-      "gulp-insert": "*"
+      "gulp-util": "*"
   }
 }
