@@ -1,5 +1,5 @@
 {
-    "name"        : "semantic",
+    "name"        : "semantic-ui-less-node",
     "description" : "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
     "homepage"    : "http://www.semantic-ui.com",
     "author": {
@@ -25,6 +25,4 @@
         "src/site",
         "test"
     ],
-    "configpath" : [""
-    ]
 }
