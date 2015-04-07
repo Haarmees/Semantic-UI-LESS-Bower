@@ -1,8 +1,8 @@
 {
-  "name": "semantic-ui-less",
+  "name": "semantic-ui-less-node",
   "version": "1.11.6",
   "title": "Semantic UI",
-  "description": "LESS Only distribution of Semantic UI",
+  "description": "LESS Only distribution of Semantic UI useable as a node dependency",
   "homepage": "http://www.semantic-ui.com",
   "author": "Jack Lukic <jack@semantic-ui.com>",
   "license": "MIT",
