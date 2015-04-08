@@ -1,6 +1,6 @@
 {
-    "name"        : "semantic-ui-less-node",
-    "description" : "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
+    "name"        : "semantic-ui-less-bower",
+    "description" : "Semantic port for bower",
     "homepage"    : "http://www.semantic-ui.com",
     "author": {
         "name" : "Jack Lukic",
